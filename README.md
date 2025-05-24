@@ -1,4 +1,5 @@
 🚀 FutureTech – Full-Stack Blogging Platform
+
 FutureTech is a powerful, modern, and fully responsive blog application built with React, Redux, Node.js, and MongoDB, featuring email OTP-based authentication, protected routes, image uploads with Cloudinary, and a beautiful UI. Users can browse blogs by categories, like & comment, create and manage posts, and update profile details.
 
 🔥 Key Features
@@ -27,6 +28,7 @@ FutureTech is a powerful, modern, and fully responsive blog application built wi
 🌐 Responsive Design using Tailwind CSS
 
 🛠️ Tech Stack
+
 Frontend :	React, Redux, React Router, Tailwind CSS
 
 Backend:	Node.js, Express.js
