@@ -25,7 +25,9 @@ FutureTech is a powerful, modern, and fully responsive blog application built wi
 
 🧭 React Router v6 for page navigation
 
-🌐 Responsive Design using Tailwind CSS
+🎨 ShadCN UI + Tailwind CSS for a beautiful, accessible UI
+
+📱 Fully Responsive Design
 
 🛠️ Tech Stack
 
@@ -36,6 +38,8 @@ Backend:	Node.js, Express.js
 Database :	MongoDB + Mongoose
 
 Auth	: NodeMailer + Email OTP + JWT
+
+Styling	Tailwind CSS + ShadCN UI
 
 File Upload :	Multer
 
