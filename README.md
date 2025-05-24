@@ -28,8 +28,13 @@ FutureTech is a powerful, modern, and fully responsive blog application built wi
 
 🛠️ Tech Stack
 Frontend :	React, Redux, React Router, Tailwind CSS
+
 Backend:	Node.js, Express.js
+
 Database :	MongoDB + Mongoose
+
 Auth	: NodeMailer + Email OTP + JWT
+
 File Upload :	Multer
+
 Image Hosting :	Cloudinary
