@@ -1,35 +1,35 @@
 🚀 FutureTech – Full-Stack Blogging Platform
-
-FutureTech is a fully-featured, responsive blog web application built with React, Redux, and Node.js, where users can browse blogs category-wise (Technology, Health, Politics, Web Development), like and comment on blogs, create and manage their own posts, and update their profile information. The platform uses email-based OTP authentication (using NodeMailer) and JWT token-based protected routes.
+FutureTech is a powerful, modern, and fully responsive blog application built with React, Redux, Node.js, and MongoDB, featuring email OTP-based authentication, protected routes, image uploads with Cloudinary, and a beautiful UI. Users can browse blogs by categories, like & comment, create and manage posts, and update profile details.
 
 🔥 Key Features
+🔐 Email OTP Authentication using NodeMailer (no passwords)
 
-🔐 Email OTP Authentication using NodeMailer (no password system)
+🔒 JWT Protected Routes for secure access
 
-🔒 JWT Protected Routes for secure access to user-specific actions
+📝 Create / Update / Delete Blogs (CRUD)
 
-📝 Create / Update / Delete Blogs (CRUD operations)
+💖 Like and 💬 Comment on blogs
 
-💖 Like & 💬 Comment System
+🗂️ Category-based Filtering – Health, Tech, Web Dev, Politics
 
-📚 Category-wise Blog Filtering – e.g., Health, Tech, Web Dev, Politics
+👤 User Profile Update with image
 
-👤 User Profile Update
+📂 Image Uploads via Multer
 
-🧾 "My Blogs" Page – see and manage only your blogs
+☁️ Image Hosting with Cloudinary
 
-🌐 Responsive & Modern UI built with Tailwind CSS
+🧾 "My Blogs" Section – manage user-specific blogs
 
-⚛️ Redux for global state management (e.g., auth, blogs, likes)
+⚛️ Redux Toolkit for global state management
 
-🧭 React Router for navigation and protected routes
+🧭 React Router v6 for page navigation
+
+🌐 Responsive Design using Tailwind CSS
 
 🛠️ Tech Stack
-
-Frontend: React, Redux, React Router, Tailwind CSS
-
-Backend: Node.js, Express.js
-
-Database: MongoDB (with Mongoose)
-
-Authentication: Email OTP via NodeMailer + JWT tokens
+Frontend :	React, Redux, React Router, Tailwind CSS
+Backend:	Node.js, Express.js
+Database :	MongoDB + Mongoose
+Auth	: NodeMailer + Email OTP + JWT
+File Upload :	Multer
+Image Hosting :	Cloudinary
